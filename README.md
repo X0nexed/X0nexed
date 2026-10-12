@@ -77,7 +77,6 @@
 <h3>Contacts:</h3>
 
 <p>
-  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-9d7bff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/your-handle"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="kirill.prokoptsov7@gmail.com"><img src="https://img.shields.io/badge/Email-9d7bff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/kirill-prokopsov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
