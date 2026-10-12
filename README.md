@@ -1,5 +1,7 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=Hello%2C%20World!&fontSize=64&desc=I%27m%20X0nexed%20%C2%B7%20junior%20front-end%20developer%20%C2%B7%20learning%20Angular&fontAlign=50&fontAlignY=42&descAlign=50&descAlignY=68&fontColor=9d7bff&descColor=9d7bff" width="100%"/>
+<p align="center">
+  <img src="header.svg" alt="Hello, World! I'm X0nexed" width="100%"/>
+</p>
 
 <!-- About -->
 <p align="center">
