@@ -6,7 +6,7 @@
 <!-- About -->
 <p align="center">
   Student at <b>KPI</b> (Igor Sikorsky Kyiv Polytechnic Institute), specialty 121: Software Engineering<br/>
-  JavaScript / TypeScript for web projects · ☕ Java for back-end and OOP studies
+  JavaScript / TypeScript for web projects · Java for back-end and OOP studies
   Learning <b>OOP</b> with <b>Java</b> (basic level), also learning <b>Python</b><br/>
   Looking for a <b>Junior / Intern</b> developer role, back-end preferred, open to front-end<br/>
   Open to teamwork, code review and feedback
