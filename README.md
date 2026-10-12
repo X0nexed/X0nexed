@@ -1,61 +1,100 @@
-<h1 align="center">Hi, I'm X0nexed 👋</h1>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&section=header&text=hi%2C%20I'm%20X0nexed&fontSize=60&desc=junior%20front-end%20developer%20%C2%B7%20TypeScript%20%C2%B7%20learning%20Angular&fontAlign=50&fontAlignY=42&descAlign=50&descAlignY=68&fontColor=7c9cff&descColor=7c9cff" width="100%"/>
 
+<!-- About -->
 <p align="center">
-  Junior front-end developer · TypeScript & JavaScript · currently learning Angular
+  💻 About a year with <b>JavaScript</b> and <b>TypeScript</b><br/>
+  🎯 Looking for a <b>Junior / Intern</b> front-end role (Angular)<br/>
+  📚 Learning: <b>Angular</b> · <b>RxJS</b> · <b>Python</b><br/>
+  🤝 Open to teamwork, code review and feedback
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7c9cff&height=2" width="100%"/>
 
-## About me
+<!-- Stack -->
+<h3>My stack:</h3>
 
-- 💻 About a year of experience with JavaScript and TypeScript
-- 🎯 Looking for a Junior / Intern front-end role (Angular)
-- 📚 Currently learning: **Angular**, RxJS
-- 🤝 Open to teamwork, code review and feedback
+<p><b>Languages</b></p>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-## Skills
+<p><b>Frontend</b></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
-**Languages**  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p><b>Tools</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-**Front-end**  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<p><b>Currently learning</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**Tools & environment**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<sub>Comfortable working on macOS, Linux and Windows.</sub>
 
-Comfortable working on macOS, Linux and Windows.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7c9cff&height=2" width="100%"/>
 
-## Projects
+<!-- Projects -->
+<h3>Projects:</h3>
 
-### 🃏 Project SSS: real-time multiplayer card game
-A team project: a card game inspired by UNO with rooms, lobby and live gameplay.
-My part: game logic and utilities in plain **TypeScript**:
-- memoization with LRU / LFU / TTL eviction policies
-- bi-directional priority queue
-- generators and iterators for the game state
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🃏 Project SSS</b><br/>
+      Real-time multiplayer card game (team project).<br/>
+      My part: game logic and utilities in plain TypeScript: memoization with LRU / LFU / TTL, bi-directional priority queue, generators and iterators.<br/><br/>
+      <sub>TypeScript · Node.js · React · PostgreSQL · Docker</sub><br/><br/>
+      <a href="https://github.com/d4xaris/project_kpi_sss">Code</a> · <a href="https://projectsssfrontend-production.up.railway.app">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <b>🏨 Ugami</b><br/>
+      Responsive mobile-first landing page for a holiday resort: off-canvas menu, modal windows, CSS animations. Vanilla JavaScript, no UI libraries.<br/><br/>
+      <sub>HTML5 · Tailwind CSS v4 · JavaScript (ES6+) · Vite · GitHub Pages</sub><br/><br/>
+      <a href="https://github.com/X0nexed/ugami_hotel">Code</a>
+    </td>
+  </tr>
+</table>
 
-**Stack:** TypeScript · Node.js · React · PostgreSQL · Docker  
-[Code](https://github.com/d4xaris/project_kpi_sss) · [Live demo](https://projectsssfrontend-production.up.railway.app)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7c9cff&height=2" width="100%"/>
 
-### 🏨 Ugami: landing page for a holiday resort
-Responsive mobile-first landing page with an off-canvas menu, modal windows and smooth CSS animations. No UI libraries: vanilla JavaScript only.
+<!-- Stats -->
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr valign="bottom">
+    <td>
 
-**Stack:** HTML5 · Tailwind CSS v4 · JavaScript (ES6+) · Vite · GitHub Pages  
-[Code](https://github.com/X0nexed/ugami_hotel)
+![X0nexed's GitHub stats](https://github-stats-extended.vercel.app/api?username=X0nexed&show_icons=true&title_color=7c9cff&text_color=7c9cff&icon_color=7c9cff&border_color=7c9cff&bg_color=0d1117)
 
-## Contacts
+</td>
+    <td>
 
-- 📫 Email: <your-email>
-- 💼 LinkedIn: <your-link>
-- ✈️ Telegram: <your-handle>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=X0nexed&layout=compact&title_color=7c9cff&text_color=7c9cff&icon_color=7c9cff&border_color=7c9cff&bg_color=0d1117&langs_count=6&card_width=250)](https://github.com/X0nexed)
+
+</td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7c9cff&height=2" width="100%"/>
+
+<!-- Contacts -->
+<h3>Contacts:</h3>
+
+<p>
+  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-7c9cff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/your-handle"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
