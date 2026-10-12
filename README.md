@@ -1,15 +1,15 @@
 <!-- Header -->
 <p align="center">
-  <img src="header.svg" alt="Hello, World! I'm X0nexed" width="100%"/>
+  <img src="header.svg" alt="Hello, World! I'm Kirill" width="100%"/>
 </p>
 
 <!-- About -->
 <p align="center">
-  🎓 Student at <b>KPI</b> (Igor Sikorsky Kyiv Polytechnic Institute), specialty 121: Software Engineering<br/>
-  💻 About a year with <b>JavaScript</b> and <b>TypeScript</b>: some front-end and back-end experience<br/>
-  ☕ Learning <b>OOP</b> with <b>Java</b> (basic level), also learning <b>Python</b><br/>
-  🎯 Looking for a <b>Junior / Intern</b> developer role, back-end preferred, open to front-end<br/>
-  🤝 Open to teamwork, code review and feedback
+  Student at <b>KPI</b> (Igor Sikorsky Kyiv Polytechnic Institute), specialty 121: Software Engineering<br/>
+  JavaScript / TypeScript for web projects · ☕ Java for back-end and OOP studies
+  Learning <b>OOP</b> with <b>Java</b> (basic level), also learning <b>Python</b><br/>
+  Looking for a <b>Junior / Intern</b> developer role, back-end preferred, open to front-end<br/>
+  Open to teamwork, code review and feedback
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9d7bff&height=2" width="100%"/>
