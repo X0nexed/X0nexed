@@ -5,9 +5,10 @@
 
 <!-- About -->
 <p align="center">
-  💻 About a year with <b>JavaScript</b> and <b>TypeScript</b><br/>
-  🎯 Looking for a <b>Junior / Intern</b> front-end role (Angular)<br/>
-  📚 Learning: <b>Angular</b> · <b>Python</b><br/>
+  🎓 Student at <b>KPI</b> (Igor Sikorsky Kyiv Polytechnic Institute), specialty 121: Software Engineering<br/>
+  💻 About a year with <b>JavaScript</b> and <b>TypeScript</b>: some front-end and back-end experience<br/>
+  ☕ Learning <b>OOP</b> with <b>Java</b> (basic level), also learning <b>Python</b><br/>
+  🎯 Looking for a <b>Junior / Intern</b> developer role, back-end preferred, open to front-end<br/>
   🤝 Open to teamwork, code review and feedback
 </p>
 
@@ -19,8 +20,8 @@
 <p><b>Languages</b></p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <p><b>Frontend</b></p>
@@ -32,7 +33,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-<p><b>Tools</b></p>
+<p><b>Back-end &amp; tools</b></p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -42,7 +43,6 @@
 
 <p><b>Currently learning</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -77,4 +77,7 @@
 <h3>Contacts:</h3>
 
 <p>
+  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-9d7bff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/your-handle"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
