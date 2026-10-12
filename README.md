@@ -1,15 +1,15 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&section=header&text=hi%2C%20I'm%20X0nexed&fontSize=60&desc=junior%20front-end%20developer%20%C2%B7%20TypeScript%20%C2%B7%20learning%20Angular&fontAlign=50&fontAlignY=42&descAlign=50&descAlignY=68&fontColor=7c9cff&descColor=7c9cff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&section=header&text=Hello%2C%20World!&fontSize=64&desc=I%27m%20X0nexed%20%C2%B7%20junior%20front-end%20developer%20%C2%B7%20learning%20Angular&fontAlign=50&fontAlignY=42&descAlign=50&descAlignY=68&fontColor=9d7bff&descColor=9d7bff" width="100%"/>
 
 <!-- About -->
 <p align="center">
   💻 About a year with <b>JavaScript</b> and <b>TypeScript</b><br/>
   🎯 Looking for a <b>Junior / Intern</b> front-end role (Angular)<br/>
-  📚 Learning: <b>Angular</b> · <b>RxJS</b> · <b>Python</b><br/>
+  📚 Learning: <b>Angular</b> · <b>Python</b><br/>
   🤝 Open to teamwork, code review and feedback
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7c9cff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d7bff&height=2" width="100%"/>
 
 <!-- Stack -->
 <h3>My stack:</h3>
@@ -41,13 +41,12 @@
 <p><b>Currently learning</b></p>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <sub>Comfortable working on macOS, Linux and Windows.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7c9cff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d7bff&height=2" width="100%"/>
 
 <!-- Projects -->
 <h3>Projects:</h3>
@@ -70,31 +69,13 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7c9cff&height=2" width="100%"/>
-
-<!-- Stats -->
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr valign="bottom">
-    <td>
-
-![X0nexed's GitHub stats](https://github-stats-extended.vercel.app/api?username=X0nexed&show_icons=true&title_color=7c9cff&text_color=7c9cff&icon_color=7c9cff&border_color=7c9cff&bg_color=0d1117)
-
-</td>
-    <td>
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=X0nexed&layout=compact&title_color=7c9cff&text_color=7c9cff&icon_color=7c9cff&border_color=7c9cff&bg_color=0d1117&langs_count=6&card_width=250)](https://github.com/X0nexed)
-
-</td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7c9cff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d7bff&height=2" width="100%"/>
 
 <!-- Contacts -->
 <h3>Contacts:</h3>
 
 <p>
-  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-7c9cff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-9d7bff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/your-handle"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
